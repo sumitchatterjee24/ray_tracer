@@ -1,0 +1,3 @@
+/home/sumit/ip_projects/ray_tracer/build/CMakeFiles/RayTracer.dir
+/home/sumit/ip_projects/ray_tracer/build/CMakeFiles/edit_cache.dir
+/home/sumit/ip_projects/ray_tracer/build/CMakeFiles/rebuild_cache.dir
